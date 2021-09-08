@@ -1,9 +1,12 @@
 Hi there!
 
-There is not much to see. Please have a look here:
+This page is under construction.
 
-- [FHI-vibes](vibes-developers.gitlab.io/vibes/)
-- [Twitter](https://twitter.com/flokno_phys)
+Meanwhile, please have a look here:
+
+- My Twitter account: [Twitter](https://twitter.com/flokno_phys)
+- Scientific software I develop:
+  - [FHI-vibes](https://vibes-developers.gitlab.io/vibes/)
 
 Read articles of mine:
 
