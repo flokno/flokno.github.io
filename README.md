@@ -1,8 +1,6 @@
 Hi there!
 
-This page is under construction.
-
-Meanwhile, please have a look here:
+While I'm constructing this page, please have a look here:
 
 - My Twitter account: [Twitter](https://twitter.com/flokno_phys)
 - Scientific software I develop:
