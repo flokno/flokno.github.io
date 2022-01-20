@@ -1,10 +1,12 @@
 Hi there!
 
-While I'm constructing this page, please have a look here:
+I am Florian Knoop and I am a theoretical physicist working as research engineer at [Linköping University](https://liu.se/). Here are some things to check out:
 
 - My Twitter account: [Twitter](https://twitter.com/flokno_phys)
-- Scientific software I develop:
+- Scientific software I (co-)develop:
   - [FHI-vibes](https://vibes-developers.gitlab.io/vibes/)
+  - [Temperature Dependent Effective Potentials (TDEP)](http://ollehellman.github.io/)
+  - [Tools for TDEP](https://github.com/flokno/tools.tdep)
 
 Read articles of mine:
 
