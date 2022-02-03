@@ -13,6 +13,10 @@ Read articles of mine:
 - [Anharmonicity measure for materials](https://arxiv.org/abs/2006.14672)
 - [FHI-vibes: Ab Initio Vibrational Simulations](https://joss.theoj.org/papers/10.21105/joss.02671)
 
-Or drop me a line here: `mail [at] flokno.me`. 
+Upcoming Talks:
+
+- March 17 at APS March Meeting: [meetings.aps.org/Meeting/MAR22/Session/S48.6](https://meetings.aps.org/Meeting/MAR22/Session/S48.6)
+
+Drop me a line here: `mail [at] flokno.me`. 
 
 Cheers! 🚀
