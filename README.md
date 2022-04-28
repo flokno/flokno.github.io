@@ -1,6 +1,6 @@
 Hi there!
 
-I am Florian Knoop and I am a theoretical physicist working as research engineer at [Linköping University](https://liu.se/). Here are some things to check out:
+I am Florian Knoop and I am a theoretical physicist working as postdoc at [Linköping University](https://liu.se/). Here are some things to check out:
 
 - My Twitter account: [Twitter](https://twitter.com/flokno_phys)
 - Scientific software I (co-)develop:
@@ -17,9 +17,9 @@ or my [thesis.](https://edoc.hu-berlin.de/handle/18452/25235)
 
 Upcoming Talks:
 
-- 26 May [ICMCTF 2022](https://icmctf2022.avs.org/)
-- 1 June at [Recent Progress in Thermal Transport Theory and Experiments | (smr 3711)](https://indico.ictp.it/event/9794/overview)
+- 26 May at [ICMCTF 2022](https://icmctf2022.avs.org/)
+- 1 June at [Recent Progress in Thermal Transport Theory and Experiments](https://indico.ictp.it/event/9794/overview)
 
 Drop me a line here: `mail [at] flokno.me`. 
 
-Cheers! 🚀
+Cheers! ✌️
