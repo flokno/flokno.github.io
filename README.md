@@ -13,9 +13,12 @@ Read articles of mine:
 - [Anharmonicity measure for materials](https://arxiv.org/abs/2006.14672)
 - [FHI-vibes: Ab Initio Vibrational Simulations](https://joss.theoj.org/papers/10.21105/joss.02671)
 
+or my [thesis.](https://edoc.hu-berlin.de/handle/18452/25235)
+
 Upcoming Talks:
 
-- March 17 at APS March Meeting: [meetings.aps.org/Meeting/MAR22/Session/S48.6](https://meetings.aps.org/Meeting/MAR22/Session/S48.6)
+- 26 May [ICMCTF 2022](https://icmctf2022.avs.org/)
+- 1 June at [Recent Progress in Thermal Transport Theory and Experiments | (smr 3711)](https://indico.ictp.it/event/9794/overview)
 
 Drop me a line here: `mail [at] flokno.me`. 
 
