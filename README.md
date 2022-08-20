@@ -24,7 +24,7 @@ My PhD thesis titled "Heat transport in strongly anharmonic solids from first pr
 
 ## Upcoming talks and other contributions
 
-- 22.-25. August: psi-k conference 2022 in Lausanne (Poster A13.34)
+- 22.-25. August: psi-k conference 2022 in Lausanne ([Poster A13.34](./assets/poster/poster_psik_22.pdf))
 - 29.-31. August: AFM Workshop Norrköping (Talk)
 - 4.-9. September: DPG meeting Regensburg (Talk)
 
