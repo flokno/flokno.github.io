@@ -11,8 +11,9 @@ I am Florian Knoop and I am a theoretical physicist working as postdoc at [Link√
   - [Temperature Dependent Effective Potentials (TDEP)](http://ollehellman.github.io/)
   - [Tools for TDEP](https://github.com/flokno/tools.tdep)
 - My [Google scholar account](https://scholar.google.de/citations?user=DmUzTpcAAAAJ)
+- My [ORCID page](https://orcid.org/0000-0002-7132-039X)
 
-## Selected publications
+## Publications
 
 - [Anharmonicity measure for materials](https://arxiv.org/abs/2006.14672)
 - [FHI-vibes: Ab Initio Vibrational Simulations](https://joss.theoj.org/papers/10.21105/joss.02671)
@@ -23,7 +24,7 @@ My PhD thesis titled "Heat transport in strongly anharmonic solids from first pr
 
 ## Upcoming talks and other contributions
 
-- 22.-25. August: psi-k conference 2022 in Lausanne (Poster)
+- 22.-25. August: psi-k conference 2022 in Lausanne (Poster A13.34)
 - 29.-31. August: AFM Workshop Norrk√∂ping (Talk)
 - 4.-9. September: DPG meeting Regensburg (Talk)
 
