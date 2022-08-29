@@ -12,6 +12,7 @@ I am Florian Knoop and I am a theoretical physicist working as postdoc at [Link√
   - [Tools for TDEP](https://github.com/flokno/tools.tdep)
 - My [Google scholar account](https://scholar.google.de/citations?user=DmUzTpcAAAAJ)
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
+- My [soundcloud account](https://soundcloud.com/florian-knoop) in case you like electronic music
 
 ## Publications
 
@@ -24,14 +25,14 @@ My PhD thesis titled "Heat transport in strongly anharmonic solids from first pr
 
 ## Upcoming talks and other contributions
 
-- 22.-25. August: psi-k conference 2022 in Lausanne ([Poster A13.34](./assets/poster/poster_psik_22.pdf))
 - 29.-31. August: AFM Workshop Norrk√∂ping (Talk)
 - 4.-9. September: DPG meeting Regensburg (Talk)
 
-## Past talks
+## Past contributions
 
-- 26 May at [ICMCTF 2022](https://icmctf2022.avs.org/) (Talk)
+- 22.-25. August: psi-k conference 2022 in Lausanne ([Poster A13.34](./assets/poster/poster_psik_22.pdf))
 - 1 June at [Recent Progress in Thermal Transport Theory and Experiments](https://indico.ictp.it/event/9794/overview) (invited Talk)
+- 26 May at [ICMCTF 2022](https://icmctf2022.avs.org/) (Talk)
 
 ## Reach out
 
