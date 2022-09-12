@@ -14,25 +14,30 @@ I am Florian Knoop and I am a theoretical physicist working as postdoc at [Link√
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
 - My [soundcloud account](https://soundcloud.com/florian-knoop) in case you like electronic music
 
+Articles I have (co-)authored:
+
 ## Publications
 
 - [Anharmonicity measure for materials](https://arxiv.org/abs/2006.14672)
 - [FHI-vibes: Ab Initio Vibrational Simulations](https://joss.theoj.org/papers/10.21105/joss.02671)
 
+## Preprints
+
+- [Ab initio Green-Kubo simulations of heat transport in solids: method and implementation](https://doi.org/10.48550/arXiv.2209.01139)
+- [High-Pressure Synthesis of Seven Lanthanum Hydrides with a Significant Variability of Hydrogen Content](High-Pressure Synthesis of Seven Lanthanum Hydrides with a Significant Variability of Hydrogen Content)
+
 ## Thesis
 
 My PhD thesis titled "Heat transport in strongly anharmonic solids from first principles" can be found [here.](https://edoc.hu-berlin.de/handle/18452/25235)
 
-## Upcoming talks and other contributions
+## Recent highlights
 
-- 29.-31. August: AFM Workshop Norrk√∂ping (Talk)
-- 4.-9. September: DPG meeting Regensburg (Talk)
-
-## Past contributions
-
-- 22.-25. August: psi-k conference 2022 in Lausanne ([Poster A13.34](./assets/poster/poster_psik_22.pdf))
+- 22.-25. August: psi-k conference 2022 in Lausanne ([commended Poster A13.34](./assets/poster/poster_psik_22.pdf))
 - 1 June at [Recent Progress in Thermal Transport Theory and Experiments](https://indico.ictp.it/event/9794/overview) (invited Talk)
-- 26 May at [ICMCTF 2022](https://icmctf2022.avs.org/) (Talk)
+
+## Upcoming talks and places to find me IRL
+
+- 18.-28. October: [9th TDDFT school and workshop in Benasque](https://www.benasque.org/2022tddft/)
 
 ## Reach out
 
