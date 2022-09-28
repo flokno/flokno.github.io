@@ -23,6 +23,7 @@ Articles I have (co-)authored:
 
 ## Preprints
 
+- [Anharmonicity in Thermal Insulators - An Analysis from First Principles](https://doi.org/10.48550/arXiv.2209.12720)
 - [Ab initio Green-Kubo simulations of heat transport in solids: method and implementation](https://doi.org/10.48550/arXiv.2209.01139)
 - [High-Pressure Synthesis of Seven Lanthanum Hydrides with a Significant Variability of Hydrogen Content](High-Pressure Synthesis of Seven Lanthanum Hydrides with a Significant Variability of Hydrogen Content)
 
