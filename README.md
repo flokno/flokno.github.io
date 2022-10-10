@@ -10,6 +10,7 @@ I am Florian Knoop and I am a theoretical physicist working as postdoc at [Link�
   - [FHI-vibes](https://vibes-developers.gitlab.io/vibes/)
   - [Temperature Dependent Effective Potentials (TDEP)](http://ollehellman.github.io/)
   - [Tools for TDEP](https://github.com/flokno/tools.tdep)
+  - [FHI-aims](https://fhi-aims.org/)
 - My [Google scholar account](https://scholar.google.de/citations?user=DmUzTpcAAAAJ)
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
 - My [soundcloud account](https://soundcloud.com/florian-knoop) in case you like electronic music
@@ -42,6 +43,6 @@ My PhD thesis titled "Heat transport in strongly anharmonic solids from first pr
 
 ## Reach out
 
-Drop me a line here: `mail [at] flokno.me`. 
+Drop me a line here: `florian.knoop [at] liu.se`. 
 
 Cheers! ✌️
