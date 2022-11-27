@@ -13,7 +13,7 @@ I am Florian Knoop and I am a theoretical physicist working as postdoc at [Link√
   - [FHI-aims](https://fhi-aims.org/)
 - My [Google scholar account](https://scholar.google.de/citations?user=DmUzTpcAAAAJ)
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
-- My [soundcloud account](https://soundcloud.com/florian-knoop) in case you like electronic music
+- My [soundcloud account](https://soundcloud.com/flokno) in case you like electronic music
 
 Articles I have (co-)authored:
 
