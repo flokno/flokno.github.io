@@ -39,7 +39,7 @@ My PhD thesis titled "Heat transport in strongly anharmonic solids from first pr
 
 ## Upcoming talks and places to find me IRL
 
-- 18.-28. October: [9th TDDFT school and workshop in Benasque](https://www.benasque.org/2022tddft/)
+- 7. December: Seminar at [BAM](https://www.bam.de/Navigation/EN/Home/home.html) Berlin
 
 ## Reach out
 
