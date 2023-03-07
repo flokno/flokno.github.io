@@ -39,7 +39,7 @@ My PhD thesis titled "Heat transport in strongly anharmonic solids from first pr
 
 ## Upcoming talks and places to find me IRL
 
-- 7. December: Seminar at [BAM](https://www.bam.de/Navigation/EN/Home/home.html) Berlin
+- [March 9, 3pm: Talk at APS March meeting 2023 in session W34](https://march.aps.org/sessions/W34/1)
 
 ## Reach out
 
