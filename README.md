@@ -9,11 +9,16 @@ Here are some articles I have (co-)authored:
 
 ## Publications
 
-- [Anharmonicity measure for materials](https://arxiv.org/abs/2006.14672)
-- [FHI-vibes: Ab Initio Vibrational Simulations](https://joss.theoj.org/papers/10.21105/joss.02671)
-- [High-pressure synthesis of seven lanthanum hydrides with a significant variability of hydrogen content](https://www.nature.com/articles/s41467-022-34755-y)
 - [Anharmonicity in Thermal Insulators: An Analysis from First Principles](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.236301)
+  Florian Knoop, Thomas A. R. Purcell, Matthias Scheffler, and Christian Carbogno, *Phys. Rev. Lett.* **130**, 236301(2023)
 - [*Ab initio* Green-Kubo simulations of heat transport in solids: Method and implementation](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.224304)
+  Florian Knoop, Matthias Scheffler, and Christian Carbogno, *Phys. Rev. B* **107**, 224304 (2023)
+- [Anharmonicity measure for materials](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.083809)
+  Florian Knoop, Thomas A. R. Purcell, Matthias Scheffler, and Christian Carbogno, *Phys. Rev. Materials* **4**, 083809 (2020)
+- [High-pressure synthesis of seven lanthanum hydrides with a significant variability of hydrogen content](https://www.nature.com/articles/s41467-022-34755-y)
+  Dominique Laniel, Florian Trybel, Bjoern Winkler, Florian Knoop, et al., *Nat. Commun.* **13**, 6987 (2022)
+- [FHI-vibes: Ab Initio Vibrational Simulations](https://joss.theoj.org/papers/10.21105/joss.02671)
+  Florian Knoop, Thomas A. R. Purcell, Matthias Scheffler, and Christian Carbogno, *J. Open Source Softw.* **5** 2671(2020)
 
 ## Preprints
 
