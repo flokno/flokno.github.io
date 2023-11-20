@@ -38,10 +38,12 @@ Here are some articles I have (co-)authored:
 
 ## Recent highlights
 
-- [7 Nov 2023: Condensed matter seminar Chalmers University](https://www.chalmers.se/en/current/calendar/f-condensed-matter-physics-seminar-231107/)
+- [7 Nov 2023: Invited talk at the Condensed Matter Seminar at Chalmers University](https://www.chalmers.se/en/current/calendar/f-condensed-matter-physics-seminar-231107/)
 - [21-25 Aug 2023: TDEP summer school in Linköping](https://liu.se/en/research/tdep2023)
-- [9 Mar 2023: Talk at APS march meeting](https://meetings.aps.org/Meeting/MAR23/Session/W34.1)
-- [25 Aug 2022: "Commendation" for my poster A13.34 at the psi-k 2022 conference in Lausanne](./assets/poster/poster_psik_22.pdf)
+- [9 Mar 2023: Talk at APS march meeting in Las Vegas](https://meetings.aps.org/Meeting/MAR23/Session/W34.1)
+- [Oct 2022: Participation at TDDFT school in Benasque](https://www.benasque.org/2022tddft/)
+- [Aug 2022: "Commendation" for poster A13.34 at the psi-k 2022 conference in Lausanne](./assets/poster/poster_psik_22.pdf)
+- [Jun 2022: Invited talk at "Recent Progress in Thermal Transport Theory and Experiments"](https://indico.ictp.it/event/9794/)
 
 ## Other things
 
