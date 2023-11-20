@@ -1,14 +1,18 @@
 flokno.github.io
 ===
 
-Hi there!
+Hi there,
 
-I am Florian Knoop and I am a theoretical physicist working on temperature-dependent materials simulations based on density functional theory at [Linköping University](https://liu.se/) 👋
+I am Florian Knoop, a theoretical physicist working on temperature-dependent materials simulations based on density functional theory at [Linköping University](https://liu.se/) 👋
 
 Here are some articles I have (co-)authored:
 
 ## Publications
 
+- [Heat flux for semilocal machine-learning potentials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L100302)
+  Marcel F. Langer, **FK**, Christian Carbogno, Matthias Scheffler, and Matthias Rupp, *Phys. Rev. B* **108**, L100302 (2013)
+- [Stress and heat flux via automatic differentiation](https://pubs.aip.org/aip/jcp/article/159/17/174105/2919546/Stress-and-heat-flux-via-automatic-differentiation)
+  Marcel F. Langer, J. Thorben Frank, **FK**, *J. Chem. Phys.* **159**, 174105 (2023)
 - [Anharmonicity in Thermal Insulators: An Analysis from First Principles](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.236301)
   **FK**, Thomas A. R. Purcell, Matthias Scheffler, and Christian Carbogno, *Phys. Rev. Lett.* **130**, 236301(2023)
 - [*Ab initio* Green-Kubo simulations of heat transport in solids: Method and implementation](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.224304)
@@ -20,38 +24,32 @@ Here are some articles I have (co-)authored:
 - [FHI-vibes: Ab Initio Vibrational Simulations](https://joss.theoj.org/papers/10.21105/joss.02671)
   **FK**, Thomas A. R. Purcell, Matthias Scheffler, and Christian Carbogno, *J. Open Source Softw.* **5** 2671(2020)
 
-## Preprints
+## Software I develop or have contributed to
 
-- [Heat flux for semi-local machine-learning potentials](https://arxiv.org/abs/2303.14434), accepted in PRB
-  Marcel F. Langer, **FK**, et al.
-- [Stress and heat flux via automatic differentiation](https://arxiv.org/abs/2305.01401), accepted in JCP
-  Marcel F. Langer, J. Thorben Frank, **FK**
+- [Temperature Dependent Effective Potentials (TDEP)](https://github.com/tdep-developers)
+- [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/index.html)
+- [Tools for TDEP](https://github.com/flokno/tools.tdep)
+- [Tools for MLFF](https://github.com/flokno/tools.mlff)
+- [FHI-vibes](https://vibes-developers.gitlab.io/vibes/) and [FHI-aims](https://fhi-aims.org/)
 
 ## Upcoming talks and places to find me IRL
 
-- **Nov 7**: condensed matter seminar Chalmers University
+- DPG March Meeting 2024 in Berlin
 
 ## Recent highlights
 
-- [Aug 21-25: TDEP summer school in Linköping](https://liu.se/en/research/tdep2023)
-- [Mar 9: Talk at APS march meeting](https://meetings.aps.org/Meeting/MAR23/Session/W34.1)
+- [7 Nov 2023: Condensed matter seminar Chalmers University](https://www.chalmers.se/en/current/calendar/f-condensed-matter-physics-seminar-231107/)
+- [21-25 Aug 2023: TDEP summer school in Linköping](https://liu.se/en/research/tdep2023)
+- [9 Mar 2023: Talk at APS march meeting](https://meetings.aps.org/Meeting/MAR23/Session/W34.1)
+- [25 Aug 2022: "Commendation" for my poster A13.34 at the psi-k 2022 conference in Lausanne](./assets/poster/poster_psik_22.pdf)
 
 ## Other things
 
-- My [Twitter account](https://twitter.com/flokno_phys)
-- Scientific software I (co-)develop:
-  - [Temperature Dependent Effective Potentials (TDEP)](https://github.com/tdep-developers)
-  - [Tools for TDEP](https://github.com/flokno/tools.tdep)
-  - [Tools for MLFF](https://github.com/flokno/tools.mlff)
-  - [FHI-vibes](https://vibes-developers.gitlab.io/vibes/) and [FHI-aims](https://fhi-aims.org/)
 - My [Google scholar account](https://scholar.google.de/citations?user=DmUzTpcAAAAJ)
+- My [Twitter account](https://twitter.com/flokno_phys)
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
-- [See my commended Poster A13.34 from the psi-k 2022 conference in Lausanne](./assets/poster/poster_psik_22.pdf)
+- My PhD thesis titled "Heat transport in strongly anharmonic solids from first principles" can be found [here.](https://edoc.hu-berlin.de/handle/18452/25235)
 - My [soundcloud account](https://soundcloud.com/flokno) in case you like electronic music
-
-## Thesis
-
-My PhD thesis titled "Heat transport in strongly anharmonic solids from first principles" can be found [here.](https://edoc.hu-berlin.de/handle/18452/25235)
 
 ## Reach out
 
