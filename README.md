@@ -47,7 +47,8 @@ Here are some articles I have (co-)authored:
 
 ## Other things
 
-- My [Google scholar account](https://scholar.google.de/citations?user=DmUzTpcAAAAJ)
+- My [Google scholar page](https://scholar.google.de/citations?user=DmUzTpcAAAAJ)
+- My [github](https://github.com/flokno) and [gitlab](https://gitlab.com/flokno) accounts
 - My [Twitter account](https://twitter.com/flokno_phys)
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
 - My PhD thesis titled "Heat transport in strongly anharmonic solids from first principles" can be found [here.](https://edoc.hu-berlin.de/handle/18452/25235)
