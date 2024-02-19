@@ -9,6 +9,8 @@ Here are some articles I have (co-)authored:
 
 ## Publications
 
+- [TDEP: Temperature Dependent Effective Potentials](https://joss.theoj.org/papers/10.21105/joss.06150)
+  **FK**, et al., *J. Open Source Softw.* **9** 6150 (2024)
 - [Heat flux for semilocal machine-learning potentials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L100302)
   Marcel F. Langer, **FK**, Christian Carbogno, Matthias Scheffler, and Matthias Rupp, *Phys. Rev. B* **108**, L100302 (2023)
 - [Stress and heat flux via automatic differentiation](https://pubs.aip.org/aip/jcp/article/159/17/174105/2919546/Stress-and-heat-flux-via-automatic-differentiation)
@@ -43,10 +45,11 @@ Here are some articles I have (co-)authored:
 
 ## Upcoming talks and places to find me IRL
 
-- DPG March Meeting 2024 in Berlin
+- [**21 March, 17:30, Berlin**: DPG March Meeting 2024, Session MM 62](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/mm/session/62/contribution/8?lang=en)
 
 ## Recent highlights
 
+- [1 Feb 2024: TDEP code released and published in JOSS](https://joss.theoj.org/papers/10.21105/joss.06150)
 - [7 Nov 2023: Invited talk at the Condensed Matter Seminar at Chalmers University](https://www.chalmers.se/en/current/calendar/f-condensed-matter-physics-seminar-231107/)
 - [21-25 Aug 2023: TDEP summer school in Linköping](https://liu.se/en/research/tdep2023)
 - [7 Jul 2023: Marcel defends his PhD](https://twitter.com/marceldotsci/status/1678703851300438018)
