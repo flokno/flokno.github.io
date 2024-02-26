@@ -42,6 +42,7 @@ Here are some articles I have (co-)authored:
 - My [github](https://github.com/flokno) and [gitlab](https://gitlab.com/flokno) accounts
 - My [Twitter account](https://twitter.com/flokno_phys)
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
+- My [employee webpage at Linköping University](https://liu.se/en/employee/flokn59)
 
 ## Upcoming talks and places to find me IRL
 
@@ -62,6 +63,6 @@ Here are some articles I have (co-)authored:
 
 ## Reach out
 
-Drop me a line here: `florian.knoop [at] liu.se`. 
+Drop me a line here: `firstname.lastname [at] liu.se`. 
 
 Cheers! ✌️
