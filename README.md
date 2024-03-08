@@ -1,32 +1,22 @@
-flokno.github.io
-===
-
 Hi there,
 
 I am Florian Knoop, a theoretical physicist working on temperature-dependent materials simulations based on density functional theory at [Linköping University](https://liu.se/) 👋
 
 Here are some articles I have (co-)authored:
 
-## Publications
+## Publications & preprints
 
-- [TDEP: Temperature Dependent Effective Potentials](https://joss.theoj.org/papers/10.21105/joss.06150)
-  **FK**, et al., *J. Open Source Softw.* **9** 6150 (2024)
-- [Heat flux for semilocal machine-learning potentials](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L100302)
-  Marcel F. Langer, **FK**, Christian Carbogno, Matthias Scheffler, and Matthias Rupp, *Phys. Rev. B* **108**, L100302 (2023)
-- [Stress and heat flux via automatic differentiation](https://pubs.aip.org/aip/jcp/article/159/17/174105/2919546/Stress-and-heat-flux-via-automatic-differentiation)
-  Marcel F. Langer, J. Thorben Frank, **FK**, *J. Chem. Phys.* **159**, 174105 (2023)
-- [Anharmonicity in Thermal Insulators: An Analysis from First Principles](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.236301)
-  **FK**, Thomas A. R. Purcell, Matthias Scheffler, and Christian Carbogno, *Phys. Rev. Lett.* **130**, 236301(2023)
-- [*Ab initio* Green-Kubo simulations of heat transport in solids: Method and implementation](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.224304)
-  **FK**, Matthias Scheffler, and Christian Carbogno, *Phys. Rev. B* **107**, 224304 (2023)
-- [High-pressure synthesis of seven lanthanum hydrides with a significant variability of hydrogen content](https://www.nature.com/articles/s41467-022-34755-y)
-  Dominique Laniel, Florian Trybel, Bjoern Winkler, **FK**, et al., *Nat. Commun.* **13**, 6987 (2022)
-- [Heat transport in strongly anharmonic solids from first principles](https://edoc.hu-berlin.de/handle/18452/25235)
-  **FK**, PhD thesis, Humboldt University (2022)
-- [Anharmonicity measure for materials](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.083809)
-  **FK**, Thomas A. R. Purcell, Matthias Scheffler, and Christian Carbogno, *Phys. Rev. Materials* **4**, 083809 (2020)
-- [FHI-vibes: Ab Initio Vibrational Simulations](https://joss.theoj.org/papers/10.21105/joss.02671)
-  **FK**, Thomas A. R. Purcell, Matthias Scheffler, and Christian Carbogno, *J. Open Source Softw.* **5** 2671(2020)
+- _TDEP: Temperature Dependent Effective Potentials_, **FK**, N. Shulumba, A. Castellano, J. P. A. Batista, R. Farris, M. J. Verstraete, M. Heine, D. Broido, D. S. Kim, J. Klarbring, I. A. Abrikosov, S. I. Simak, and O. Hellman, [*J. Open Source Softw.* **9** 6150 (2024)](https://joss.theoj.org/papers/10.21105/joss.06150)
+- *Vibrational properties differ between halide  and chalcogenide perovskite semiconductors, and it matters for  optoelectronic performance*, K. Ye, M. Menahem, T. Salzillo, B. Zhao, S. Niu, **FK**, I. Sadeghi, O. Hellman, J. Ravichandran, R. Jaramillo, and O. Yaffe, [_Arxiv 2402.18957_](https://arxiv.org/abs/2402.18957)
+- _Heat flux for semilocal machine-learning potentials_, [M.F. Langer, **FK**, C. Carbogno, M. Scheffler, and M. Rupp, [*Phys. Rev. B* **108**, L100302 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L100302)
+- _Stress and heat flux via automatic differentiation_, M.F. Langer, J.T. Frank, and **FK**, [*J. Chem. Phys.* **159**, 174105 (2023)](https://pubs.aip.org/aip/jcp/article/159/17/174105/2919546/Stress-and-heat-flux-via-automatic-differentiation)
+- _Anharmonicity in Thermal Insulators: An Analysis from First Principles_, **FK**, T.A. R. Purcell, M. Scheffler, and C. Carbogno, [*Phys. Rev. Lett.* **130**, 236301(2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.236301)
+- _*Ab initio* Green-Kubo simulations of heat transport in solids: Method and implementation_, **FK**, M. Scheffler, and C. Carbogno, [*Phys. Rev. B* **107**, 224304 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.224304)
+- _High-pressure synthesis of seven lanthanum hydrides with a significant variability of hydrogen content_,
+  D. Laniel, F. Trybel, B. Winkler, **FK**, T. Fedotenko, S. Khandarkhaeva, A. Aslandukova, T. Meier, S. Chariton,  K. Glazyrin, V. Milman, V. Prakapenka, I. A. Abrikosov, L. Dubrovinsky,  and N. Dubrovinskaia, [*Nat. Commun.* **13**, 6987 (2022)](https://www.nature.com/articles/s41467-022-34755-y)
+- _Heat transport in strongly anharmonic solids from first principles_, **FK**, [PhD thesis, Humboldt University (2022)](https://edoc.hu-berlin.de/handle/18452/25235)
+- _FHI-vibes: Ab Initio Vibrational Simulations_, **FK**, T.A.R. Purcell, M. Scheffler, and C. Carbogno, [*J. Open Source Softw.* **5** 2671(2020)](https://joss.theoj.org/papers/10.21105/joss.02671)
+- _Anharmonicity measure for materials_, **FK**, T.A.R. Purcell, M. Scheffler, and C. Carbogno, [*Phys. Rev. Materials* **4**, 083809 (2020)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.083809)
 
 ## Software I develop or have contributed to
 
