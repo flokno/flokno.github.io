@@ -34,12 +34,9 @@ Here are some articles I have (co-)authored:
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
 - My [employee webpage at Linköping University](https://liu.se/en/employee/flokn59)
 
-## Upcoming talks and places to find me IRL
-
-- [**21 March, 17:30, Berlin**: DPG March Meeting 2024, Session MM 62](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/mm/session/62/contribution/8?lang=en)
-
 ## Recent highlights
 
+- [21 March 2024: DPG March Meeting 2024, Session MM 62](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/mm/session/62/contribution/8?lang=en)
 - [1 Feb 2024: TDEP code released and published in JOSS](https://joss.theoj.org/papers/10.21105/joss.06150)
 - [7 Nov 2023: Invited talk at the Condensed Matter Seminar at Chalmers University](https://www.chalmers.se/en/current/calendar/f-condensed-matter-physics-seminar-231107/)
 - [21-25 Aug 2023: TDEP summer school in Linköping](https://liu.se/en/research/tdep2023)
