@@ -48,6 +48,10 @@ Here are some articles I have (co-)authored:
 - [Jun 2022: Invited talk at "Recent Progress in Thermal Transport Theory and Experiments"](https://indico.ictp.it/event/9794/)
 - [28 Feb 2022: PhD defense](https://twitter.com/flokno_phys/status/1498391214906912773)
 
+## Slides
+
+- [Monday Meeting: Hybrid functionals in FHI-aims](./assets/slides/slides_monday-meeting-FHI-aims.pdf)
+
 ## Reach out
 
 Drop me a line here: `firstname.lastname [at] liu.se`. 
