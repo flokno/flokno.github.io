@@ -34,6 +34,11 @@ Here are some articles I have (co-)authored:
 - My [ORCID page](https://orcid.org/0000-0002-7132-039X)
 - My [employee webpage at Linköping University](https://liu.se/en/employee/flokn59)
 
+## Upcoming events and places to find me IRL
+
+- [10 June: Lennard Jones Centre Seminar (remote)](https://talks.cam.ac.uk/talk/index/217306)
+- 17-18 July: TU Munich
+
 ## Recent highlights
 
 - [21 March 2024: DPG March Meeting 2024, Session MM 62](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/mm/session/62/contribution/8?lang=en)
