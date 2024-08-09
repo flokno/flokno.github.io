@@ -36,11 +36,13 @@ Here are some articles I have (co-)authored:
 
 ## Upcoming events and places to find me IRL
 
-- [10 June: Lennard Jones Centre Seminar (remote)](https://talks.cam.ac.uk/talk/index/217306)
-- 17-18 July: TU Munich
+- [20-22. August: AFM2024: 5th conference on advanced functional materials](https://liu.se/en/research/advanced-functional-materials/afm2024)
 
 ## Recent highlights
 
+- [5.-8. August: Visit Marcel and the COSMO lab at EPFL](https://www.epfl.ch/labs/cosmo/)
+- [17-18 July: Visit David Egger at TU Munich](https://theofem.de/)
+- [10 June: Lennard Jones Centre Seminar (remote)](https://talks.cam.ac.uk/talk/index/217306)
 - [21 March 2024: DPG March Meeting 2024, Session MM 62](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/mm/session/62/contribution/8?lang=en)
 - [1 Feb 2024: TDEP code released and published in JOSS](https://joss.theoj.org/papers/10.21105/joss.06150)
 - [7 Nov 2023: Invited talk at the Condensed Matter Seminar at Chalmers University](https://www.chalmers.se/en/current/calendar/f-condensed-matter-physics-seminar-231107/)
