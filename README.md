@@ -36,6 +36,7 @@ See my [full publication list](publications/) or my [Google Scholar page](https:
 ## Selected highlights
 
 - Jun 2026: Official start of [SID (Stellplatzinformationsdienst)](https://company.toll-collect.de/de/produkte-loesungen/daten-geoinformationssysteme/lkw-stellplatzinformationsdienst/), a Toll Collect project
+- Mar 2026: [Integral communication training in Berlin](https://teamentwicklung-lab.de/integrales-kommunikationstraining-berlin/)
 - Mar 2026: Took my wife's name, Matthes
 - Jan 2025: New position at [Ambrosys](https://www.ambrosys.de/)
 - Aug 2024: Invited to [Marcel Langer and the COSMO lab at EPFL](https://www.epfl.ch/labs/cosmo/)
