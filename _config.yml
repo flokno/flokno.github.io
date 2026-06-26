@@ -3,3 +3,23 @@
 # the jekyll-github-metadata fetch succeeding. These reproduce the prior live site.
 title: Florian Matthes (neé Knoop)
 description: Hello!
+
+# Minimal theme (https://github.com/pages-themes/minimal), bundled with the
+# github-pages gem so no Gemfile change is needed. Its `default` layout renders
+# the sidebar title/description and the `logo` image.
+theme: jekyll-theme-minimal
+
+# Logo shown in the theme sidebar — a local copy of the GitHub profile picture
+# (https://github.com/flokno.png). Kept local so the minimal layout's
+# `relative_url` filter resolves it correctly; an external avatar URL would be
+# mangled by that filter.
+logo: /assets/img/profile.jpg
+
+# jekyll-readme-index promotes README.md to index.html but the generated page
+# carries no layout, so the theme CSS would never be injected. Force the theme's
+# `default` layout onto it so the Minimal styling actually applies.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

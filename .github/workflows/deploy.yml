@@ -22,6 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Fetch real LFS-backed assets (e.g. the logo image) instead of the
+          # pointer files, so Jekyll copies the actual images into the build.
+          lfs: true
 
       - uses: ruby/setup-ruby@v1
         with:
