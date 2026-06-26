@@ -1,0 +1,5 @@
+# Pins the values GitHub Pages previously derived from repo/profile metadata at
+# build time, so the GitHub Actions build is deterministic and does not depend on
+# the jekyll-github-metadata fetch succeeding. These reproduce the prior live site.
+title: Florian Matthes (neé Knoop)
+description: Hello!

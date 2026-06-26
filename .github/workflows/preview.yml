@@ -1,0 +1,56 @@
+name: Preview site
+
+# Per-PR preview. Produces (option 2) a downloadable rendered-site artifact and
+# (option 3) a live preview deployed to gh-pages under pr-preview/pr-<N>/, which
+# is removed automatically when the PR closes.
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, closed]
+
+permissions:
+  contents: write       # push the preview to the gh-pages branch
+  pull-requests: write  # comment the preview URL on the PR
+
+# Same group as deploy.yml — all gh-pages writes serialize repo-wide.
+concurrency:
+  group: gh-pages-branch
+  cancel-in-progress: false
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        if: github.event.action != 'closed'
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build site
+        if: github.event.action != 'closed'
+        run: |
+          bundle exec jekyll build --destination ./_site \
+            --baseurl "/pr-preview/pr-${{ github.event.number }}"
+          touch ./_site/.nojekyll
+        env:
+          JEKYLL_ENV: production
+          PAGES_REPO_NWO: ${{ github.repository }}
+          JEKYLL_GITHUB_TOKEN: ${{ github.token }}
+
+      # Option 2: downloadable, theme-accurate HTML bundle for offline preview.
+      - name: Upload rendered-site artifact
+        if: github.event.action != 'closed'
+        uses: actions/upload-artifact@v4
+        with:
+          name: rendered-site-pr-${{ github.event.number }}
+          path: ./_site
+          if-no-files-found: error
+
+      # Option 3: deploy/update the live preview, and tear it down on PR close.
+      - name: Deploy live preview
+        uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: ./_site
+          umbrella-dir: pr-preview

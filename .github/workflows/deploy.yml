@@ -1,0 +1,48 @@
+name: Deploy site
+
+# Production deploy. Builds the site with the GitHub Pages toolchain and pushes
+# it to the root of the gh-pages branch. After this workflow has run once, set
+# Settings -> Pages -> Source to "Deploy from a branch: gh-pages / (root)".
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Shared with preview.yml so that every write to gh-pages (production deploy and
+# PR-preview provisioning/cleanup) serializes repo-wide and never races.
+concurrency:
+  group: gh-pages-branch
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build site
+        run: |
+          bundle exec jekyll build --destination ./_site
+          touch ./_site/.nojekyll
+        env:
+          JEKYLL_ENV: production
+          PAGES_REPO_NWO: ${{ github.repository }}
+          JEKYLL_GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Deploy to gh-pages (root)
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _site
+          branch: gh-pages
+          clean: true
+          # Never wipe live PR previews when refreshing production.
+          clean-exclude: |
+            pr-preview/
