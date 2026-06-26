@@ -1,10 +1,10 @@
 Hi there 👋
 
-I'm **Florian Matthes** — I publish my scientific work under my former name, **Florian Knoop** (**FK** below).
+I'm **Florian Matthes**.
 
 I'm a **Senior Data Analyst with a focus on ML engineering** at [Ambrosys](https://www.ambrosys.de/), working on data science and machine learning for complex systems.
 
-Before moving to industry I was a theoretical physicist working on temperature-dependent materials simulations from first principles (density functional theory), at Linköping University and the Fritz Haber Institute.
+Before moving to industry I was a theoretical physicist working on temperature-dependent materials simulations from first principles (density functional theory), at Linköping University and the Fritz Haber Institute. I publish my scientific work under my former name, **Florian Knoop** (**FK** below).
 
 ## Vita
 
