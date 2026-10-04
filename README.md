@@ -2,13 +2,14 @@ Hi there 👋
 
 I'm **Florian Matthes**.
 
-I'm a **Senior Data Analyst with a focus on ML engineering** at [Ambrosys](https://www.ambrosys.de/), working on data science and machine learning for complex systems.
+I'm **Product Owner for Real-Time Data** in the [MCCS](https://www.mccs.com/en) project at [50Hertz](https://www.50hertz.com/), developing real-time grid data infeed and processing tools.
 
 Before moving to industry I was a theoretical physicist working on temperature-dependent materials simulations from first principles (density functional theory), at Linköping University and the Fritz Haber Institute. I publish my scientific work under my former name, **Florian Knoop** (**FK** below).
 
 ## Vita
 
-- **Senior Data Analyst (ML Engineering)** — [Ambrosys](https://www.ambrosys.de/), 2025–present
+- **Product Owner, Real-Time Data (MCCS)** — [50Hertz](https://www.50hertz.com/), 2026–present
+- **Senior Data Analyst (ML Engineering)** — [Ambrosys](https://www.ambrosys.de/), 2025–2026
 - **Postdoc** — Linköping University, 2022–2024
 - **Principal Research Engineer** — Linköping University, 2021–2022
 - **PhD Student** — Fritz Haber Institute, 2017–2020
@@ -35,6 +36,7 @@ See my [full publication list](publications/) or my [Google Scholar page](https:
 
 ## Selected highlights
 
+- Jul 2026: New position as **Product Owner for Real-Time Data** in the [MCCS](https://www.mccs.com/en) project at [50Hertz](https://www.50hertz.com/)
 - Jun 2026: Official start of [SID (Stellplatzinformationsdienst)](https://company.toll-collect.de/de/produkte-loesungen/daten-geoinformationssysteme/lkw-stellplatzinformationsdienst/), a Toll Collect project I contributed to together with my team at Ambrosys
 - Mar 2026: [Integral communication training in Berlin](https://teamentwicklung-lab.de/integrales-kommunikationstraining-berlin/)
 - Mar 2026: Took my wife's name, Matthes
