@@ -8,8 +8,8 @@ Before moving to industry I was a theoretical physicist working on temperature-d
 
 ## Vita
 
-- **Product Owner, Real-Time Data (MCCS)** — [50Hertz](https://www.50hertz.com/), 2026–present
-- **Senior Data Analyst (ML Engineering)** — [Ambrosys](https://www.ambrosys.de/), 2025–2026
+- **Product Owner, Real-Time Data (MCCS)** — [50Hertz](https://www.50hertz.com/), Jul 2026–present
+- **Senior Data Analyst (ML Engineering)** — [Ambrosys](https://www.ambrosys.de/), Jan 2025–Jun 2026
 - **Postdoc** — Linköping University, 2022–2024
 - **Principal Research Engineer** — Linköping University, 2021–2022
 - **PhD Student** — Fritz Haber Institute, 2017–2020
