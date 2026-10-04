@@ -39,7 +39,7 @@ See my [full publication list](publications/) or my [Google Scholar page](https:
 - Jul 2026: New position as **Product Owner for Real-Time Data** in the [MCCS](https://www.mccs.com/en) project at [50Hertz](https://www.50hertz.com/)
 - Jun 2026: Official start of [SID (Stellplatzinformationsdienst)](https://company.toll-collect.de/de/produkte-loesungen/daten-geoinformationssysteme/lkw-stellplatzinformationsdienst/), a Toll Collect project I contributed to together with my team at Ambrosys
 - Mar 2026: [Integral communication training in Berlin](https://teamentwicklung-lab.de/integrales-kommunikationstraining-berlin/)
-- Mar 2026: Took my wife's name, Matthes
+- Mar 2026: I took my wife's name, Matthes
 - Jul 2025: Promotion to **Senior Data Analyst**
 - Jan 2025: New position as **Data Analyst** at [Ambrosys](https://www.ambrosys.de/)
 - Aug 2024: Invited to [Marcel Langer and the COSMO lab at EPFL](https://www.epfl.ch/labs/cosmo/)
