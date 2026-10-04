@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm **Florian Matthes**.
 
-I'm **Product Owner for Real-Time Data** in the [MCCS](https://www.mccs.com/en) project at [50Hertz](https://www.50hertz.com/), developing real-time grid data infeed and processing tools.
+I'm **Product Owner for Real-Time Data** in the [MCCS](https://www.mccs.com/en) project at [50Hertz](https://www.50hertz.com/), the transmission system operator for electrical power in the north and east of Germany. With MCCS we are developing the next generation of power grid control software, and my team builds the tools that feed real-time grid data into it and process it.
 
 Before moving to industry I was a theoretical physicist working on temperature-dependent materials simulations from first principles (density functional theory), at Linköping University and the Fritz Haber Institute. I publish my scientific work under my former name, **Florian Knoop** (**FK** below).
 
